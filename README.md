@@ -1,7 +1,7 @@
 # #  ReactJS Portfolio      
 
 
-## <a href="" target="_blank">LIVE DEMO</a>
+## <a href="https://forhad-akbar.netlify.app/" target="_blank">LIVE DEMO</a>
 
 ## Description
 This is a ReactJS based personal resume website
